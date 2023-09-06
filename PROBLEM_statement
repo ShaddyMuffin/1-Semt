@@ -1,20 +1,20 @@
 BEggnier 
 
 1. Calculate the area and circumference of the circle.(Circle.py)
-2. To print all natural numbers up to n.
-3. To check whether the given number is positive or negative
-4. To check if the given number is odd or even 
-5. To check whether he or she is eligible to vote.
-6. Read two numbers multiply them together and print out their product.
-7. Calculate engineering cutoff (use the formula Cutoff= (P/4+C/4+M/2)).
-8. To check the greatest of three numbers.
-9. To print n odd numbers.
-10. To find the squares of a number
+2. To print all natural numbers up to n.(NaturalNo.py)
+3. To check whether the given number is positive or negative(Sign.py)
+4. To check if the given number is odd or even (parity.py)
+5. To check whether he or she is eligible to vote.(votingELB.py)
+6. Read two numbers multiply them together and print out their product.(GAY)
+7. Calculate engineering cutoff (use the formula Cutoff= (P/4+C/4+M/2)).(enggCutoff.py)
+8. To check the greatest of three numbers.(maxthreeno.py)
+9. To print n odd numbers.(noddno.py)
+10. To find the squares of a number.(GAY)
 
-MEDIUM
+EASY.2
 
 1. Rahul discovered that his water cooler needed 2 liters of water to cool for an hour. How many 
-liters of water (in liters) would the cooler need to cool for N hours?
+liters of water (in liters) would the cooler need to cool for N hours?(1.py)
 
 2. Rajeshwari registered for X courses this semester. There are Z chapters in each of each course's 
 Y units. Find out how many chapters Rajeshwari must read in total this semester.
@@ -23,11 +23,11 @@ Y units. Find out how many chapters Rajeshwari must read in total this semester.
 upcoming semester. The administrators performed a poll of student interest, and they discovered 
 that Y pupils were interested in enrolling in the python course. Determine the bare minimum of 
 additional seats the administrators must add to the python course to ensure that every student 
-who wishes to register in the course is able to do so.
+who wishes to register in the course is able to do so.(3.py)
 
 4. As Ravi wants to get in shape, he chose to walk to work and back home. It is well known that 
 Ravi's house and business are X kilometers apart. Find the distance that Ravi travels on business 
-trips in a week if his workplace is open on y days of the week.
+trips in a week if his workplace is open on y days of the week.(4.py)
 
 5. Arun has a rectangular laptop of length N cm and width M cm. He wants to make a LED strip 
 around the laptop. The LED strip costs X rupees per cm. Determine the cost Arun needs to incur 
